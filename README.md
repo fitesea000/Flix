@@ -39,7 +39,7 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthrough GIF
 
-<img src= https://recordit.co/tbplO8fgiE width=250><br>
+<img src=https://recordit.co/tbplO8fgiE width=250><br>
 
 ### Notes
 I had some trouble integrating Alamofire into my cocoapods via my terminal but it all worked out.
